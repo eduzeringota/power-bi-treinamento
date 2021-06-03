@@ -1,0 +1,20 @@
+/*
+	comentário em CSS
+*/
+
+a{
+	color: green;
+	font-size: 30px;
+}
+h1{
+	font-family: helvetica, sans-serif;
+	color: red;
+}
+#l_01{    /* # significa que é um id único */
+	color: rebeccapurple;
+}
+.c_01{    /* . significa que é uma classe - se eu queser aplicar a determinadas tags, 
+	        colocar o nome da tag antes do ponto ex: "a.c_01"; 
+	        pode-se colocar um caminho de tags ex:  body p a.c_01*/
+	color:  brown;
+}

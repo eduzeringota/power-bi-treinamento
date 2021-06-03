@@ -1,0 +1,14 @@
+h1{
+	color: orange;
+	letter-spacing: 2px; /* pode ter valor negativo */
+	text-transform: uppercase;
+	text-shadow: 1px 1px black;
+	font-family: 'Roboto', sans-serif;
+}
+p{
+/*	text-indent: 50px; */
+	width: 650px;
+	text-align: justify;
+	font-size: 18px;
+	font-family: verdana;
+}
